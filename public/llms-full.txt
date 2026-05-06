@@ -2,13 +2,13 @@
 
 FIX is a fashion brand specializing in elegant headscarves and designer garments. The brand offers a curated collection including square scarves, combined scarves, designer cotton pieces, and evening scarves. The aesthetic is clean, modern, and sophisticated — white with black accents — projecting a premium boutique feel with a minimalist visual identity.
 
-Source: https://fix-63b20246.zappy5.app
+Source: https://example.com
 
 ---
 
 ## אופנה ואקססוריז — FIX מטפחות
 
-URL: https://fix-63b20246.zappy5.app
+URL: https://example.com
 Description: FIX מטפחות מציעה קולקציה בלעדית של מטפחות מרובעות, מטפחות ערב ופריטי אופנה מעוצבים לאישה המודרנית. חווי סטייל, איכות ועיצוב מינימליסטי — הכל במקום אחד.
 
 אופנה ואקססוריז — FIX מטפחות
@@ -535,7 +535,7 @@ FIX מטפחות
 
 ## קולקציות שמדברות בשפת הסטייל — FIX מטפחות
 
-URL: https://fix-63b20246.zappy5.app/collections
+URL: https://example.com/collections
 Description: עיצובים שמשלבים אלגנטיות ונוחות: מטפחות ערב אופנתיות, כותנה מעוצבת ומטפחות מרובעות ייחודיות. גלי את הקולקציה המלאה ומצאי את הפריט שמדבר אליך.
 
 קולקציות שמדברות בשפת הסטייל — FIX מטפחות
@@ -973,7 +973,7 @@ FIX מטפחות
 
 ## מאחורי כל מטפחת עומד חזון — FIX מטפחות
 
-URL: https://fix-63b20246.zappy5.app/brand-story
+URL: https://example.com/brand-story
 Description: הכירי את הסיפור שמאחורי המותג שהפך אלגנטיות לאמנות. FIX נולד מתוך אהבה לעיצוב נקי, מודרני ומתוחכם — עבור נשים שיודעות בדיוק מה הן רוצות מהאופנה שלהן.
 
 מאחורי כל מטפחת עומד חזון — FIX מטפחות
@@ -1365,7 +1365,7 @@ FIX מטפחות
 
 ## בואי נדבר — הסטייל שלך מתחיל כאן — FIX מטפחות
 
-URL: https://fix-63b20246.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש שאלה על קולקציית המטפחות? רוצה ייעוץ אישי? צרי קשר עם צוות FIX ונשמח לעזור לך למצוא את המטפחת המושלמת מתוך חנות המטפחות האונליין שלנו בישראל.
 
 בואי נדבר — הסטייל שלך מתחיל כאן — FIX מטפחות
@@ -1785,7 +1785,7 @@ FIX מטפחות
 
 ## מוצרים
 
-URL: https://fix-63b20246.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - FIX מטפחות
 
 מוצרים - FIX מטפחות
@@ -2012,7 +2012,7 @@ FIX מטפחות
 
 ## פרטי המוצר
 
-URL: https://fix-63b20246.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - FIX מטפחות
 
 פרטי המוצר - FIX מטפחות
@@ -2217,7 +2217,7 @@ FIX מטפחות
 
 ## מוצרים
 
-URL: https://fix-63b20246.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - FIX מטפחות
 
 מוצרים - FIX מטפחות
@@ -2446,7 +2446,7 @@ FIX מטפחות
 
 ## מדיניות פרטיות
 
-URL: https://fix-63b20246.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2718,7 +2718,7 @@ FIX מטפחות
 
 ## הצהרת נגישות
 
-URL: https://fix-63b20246.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2999,7 +2999,7 @@ FIX מטפחות
 
 ## תנאי שימוש
 
-URL: https://fix-63b20246.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש

@@ -7,45 +7,45 @@
 ## Pages
 
 ### בית
-https://fix-63b20246.zappy5.app
+https://example.com
 FIX מטפחות מציעה קולקציה בלעדית של מטפחות מרובעות, מטפחות ערב ופריטי אופנה מעוצבים לאישה המודרנית. חווי סטייל, איכות ועיצוב מינימליסטי — הכל במקום אחד.
 
 ### קולקציות
-https://fix-63b20246.zappy5.app/collections
+https://example.com/collections
 עיצובים שמשלבים אלגנטיות ונוחות: מטפחות ערב אופנתיות, כותנה מעוצבת ומטפחות מרובעות ייחודיות. גלי את הקולקציה המלאה ומצאי את הפריט שמדבר אליך.
 
 ### הסיפור שלנו
-https://fix-63b20246.zappy5.app/brand-story
+https://example.com/brand-story
 הכירי את הסיפור שמאחורי המותג שהפך אלגנטיות לאמנות. FIX נולד מתוך אהבה לעיצוב נקי, מודרני ומתוחכם — עבור נשים שיודעות בדיוק מה הן רוצות מהאופנה שלהן.
 
 ### צור קשר
-https://fix-63b20246.zappy5.app/contact
+https://example.com/contact
 יש שאלה על קולקציית המטפחות? רוצה ייעוץ אישי? צרי קשר עם צוות FIX ונשמח לעזור לך למצוא את המטפחת המושלמת מתוך חנות המטפחות האונליין שלנו בישראל.
 
 ### Products
-https://fix-63b20246.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - FIX מטפחות
 
 ### Product Detail
-https://fix-63b20246.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - FIX מטפחות
 
 ### Category
-https://fix-63b20246.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - FIX מטפחות
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://fix-63b20246.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://fix-63b20246.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://fix-63b20246.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -80,8 +80,8 @@ FIX is a fashion brand specializing in elegant headscarves and designer garments
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://fix-63b20246.zappy5.app/sitemap.xml
-- Robots: https://fix-63b20246.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://fix-63b20246.zappy5.app/llms-full.txt
-- Products (JSON): https://fix-63b20246.zappy5.app/products.json
-- Products (Google Merchant RSS): https://fix-63b20246.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
