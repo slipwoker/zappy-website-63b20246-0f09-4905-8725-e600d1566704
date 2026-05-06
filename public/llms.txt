@@ -1,0 +1,87 @@
+# FIX מטפחות — Generative Engine Optimization Map
+
+> FIX is a fashion brand specializing in elegant headscarves and designer garments. The brand offers a curated collection including square scarves, combined scarves, designer cotton pieces, and evening scarves. The aesthetic is clean, modern, and sophisticated — white with black accents — projecting a premium boutique feel with a minimalist visual identity.
+
+---
+
+## Pages
+
+### בית
+https://fix-63b20246.zappy5.app
+FIX מטפחות מציעה קולקציה בלעדית של מטפחות מרובעות, מטפחות ערב ופריטי אופנה מעוצבים לאישה המודרנית. חווי סטייל, איכות ועיצוב מינימליסטי — הכל במקום אחד.
+
+### קולקציות
+https://fix-63b20246.zappy5.app/collections
+עיצובים שמשלבים אלגנטיות ונוחות: מטפחות ערב אופנתיות, כותנה מעוצבת ומטפחות מרובעות ייחודיות. גלי את הקולקציה המלאה ומצאי את הפריט שמדבר אליך.
+
+### הסיפור שלנו
+https://fix-63b20246.zappy5.app/brand-story
+הכירי את הסיפור שמאחורי המותג שהפך אלגנטיות לאמנות. FIX נולד מתוך אהבה לעיצוב נקי, מודרני ומתוחכם — עבור נשים שיודעות בדיוק מה הן רוצות מהאופנה שלהן.
+
+### צור קשר
+https://fix-63b20246.zappy5.app/contact
+יש שאלה על קולקציית המטפחות? רוצה ייעוץ אישי? צרי קשר עם צוות FIX ונשמח לעזור לך למצוא את המטפחת המושלמת מתוך חנות המטפחות האונליין שלנו בישראל.
+
+### Products
+https://fix-63b20246.zappy5.app/products
+המוצרים שלנו - FIX מטפחות
+
+### Product Detail
+https://fix-63b20246.zappy5.app/product/:slug
+פרטי המוצר - FIX מטפחות
+
+### Category
+https://fix-63b20246.zappy5.app/category/:slug
+מוצרים - FIX מטפחות
+
+## Legal & Policy
+
+### Privacy Policy
+https://fix-63b20246.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://fix-63b20246.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://fix-63b20246.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About FIX מטפחות
+FIX is a fashion brand specializing in elegant headscarves and designer garments. The brand offers a curated collection including square scarves, combined scarves, designer cotton pieces, and evening scarves. The aesthetic is clean, modern, and sophisticated — white with black accents — projecting a premium boutique feel with a minimalist visual identity.
+
+## Services/Products
+- מטפחות מרובעות
+- מטפחות משולבות
+- כותנות מעוצבות
+- מטפחות ערב
+
+## Target Audience
+- נשים מהמגזר הדתי
+- אמהות אופנתיות
+- חובבות אופנת מעצבים
+- מטפחות לדתיות
+
+## Industry
+אופנה ואקססוריז
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://fix-63b20246.zappy5.app/sitemap.xml
+- Robots: https://fix-63b20246.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://fix-63b20246.zappy5.app/llms-full.txt
+- Products (JSON): https://fix-63b20246.zappy5.app/products.json
+- Products (Google Merchant RSS): https://fix-63b20246.zappy5.app/product-feed.xml
